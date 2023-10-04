@@ -41,4 +41,3 @@ This is a simple command-line implementation of the classic Rock, Paper, Scissor
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
