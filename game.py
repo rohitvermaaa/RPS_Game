@@ -159,7 +159,6 @@ b2.grid(column=2, row=4, columnspan=2)
 b3.grid(column=4, row=4, columnspan=2)
 la2.grid(column=0, row=5, columnspan=6)
 
-# Function to configure button on mouse enter and leave
 def on_enter(e):
     e.widget.config(bg='red4', fg="white")
 
